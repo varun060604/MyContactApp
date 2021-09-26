@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">My Contact </string>
+
+    <string-array name="Contact_name">
+        <item>Hillary Quijano</item>
+        <item>Li Ciriaco</item>
+        <item>Jillian Vaught</item>
+        <item>Willia Vo</item>
+        <item>Tamie Lima</item>
+        <item>Octavia Barwick</item>
+        <item>Candida Catalan</item>
+        <item>Lakita Nachman</item>
+        <item>Gwendolyn Calhoun</item>
+        <item>Cinderella Sowders</item>
+    </string-array>
+
+    <string-array name="Phone_No">
+        <item>770-201-7785</item>
+    </string-array>
+
+    <string-array name="EmailId">
+        <item>crogetrottene-2625@yopmail.com</item>
+    </string-array>
+
+    <string-array name="Address">
+        <item>55 King St, Sydney, NSW 2001</item>
+    </string-array>
+
+</resources>
